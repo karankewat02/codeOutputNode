@@ -1,0 +1,7 @@
+PORT = "5000"
+ENDPOINT = "testendpoint.mysql.polardb.ap-south-1.rds.aliyuncs.com"
+USERNAME = "karankewat"
+PASSWORD = "Karan@123"
+DATABASE = "testing"
+PASS_SEC = 2911
+PREDICTIONENDPOINT = "http://127.0.0.1:8000"
