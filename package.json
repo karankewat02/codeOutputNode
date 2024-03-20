@@ -1,10 +1,10 @@
 {
-  "name": "investoxx",
+  "name": "Code Output",
   "version": "1.0.0",
-  "description": "Investoxx is an advanced platform that empowers users to create and manage their stock market portfolios. Our platform leverages cutting-edge AI technology to analyze market trends and predict the performance of stocks. With real-time data analysis and integration of stock market news, Investoxx provides an unparalleled level of insight into the financial market. Users have the ability to generate custom portfolios, making informed investment decisions with ease. Experience the future of stock market portfolio management with Investoxx",
+  "description": "Code Output",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
